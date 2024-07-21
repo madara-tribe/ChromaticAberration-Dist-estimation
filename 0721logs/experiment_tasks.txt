@@ -1,0 +1,11 @@
+1 check psycal sysmtom following paper 
+- create color filter
+- calcurate R G B Transmittance ratio
+
+2 confirm the meaning of formula b = (a*vf/2p)(1/f -1/vf - 1/x) ((size of chromatic aberration))
+
+- take photos and check b value depending on distance -N ~ M
+- take eadge detection and confirm rgb's each chromatic aberration
+  => now here is end of the first step
+
+
